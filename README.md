@@ -1,6 +1,6 @@
-# securecsar (frontend)
+# securecsar (back-end)
 
-securecsar is a prototype built to secure TOSCA Cloud Service Archives (CSARs). The prototype is part of research work of master's thesis "Securing Cloud Service Archives for Function and Data Shipping in Industrial Environments" and it allows to provide security to TOSCA CSAR by defining policies in CSAR. The prototpye provides security to CSAR by implementing following use-cases.
+securecsar is a prototype built to secure TOSCA Cloud Service Archives (CSARs). The prototype is part of research work of master's thesis "Securing Cloud Service Archives for Function and Data Shipping in Industrial Environments" done at University of Stuttgart, Germany (IAAS Department). The prototype allows to provide security to TOSCA CSAR by defining policies in CSAR. The prototpye provides security to CSAR by implementing following use-cases.
 
 1. encrypt all CSAR artifacts (default case) or individual artifacts in a CSAR
 1. sign all CSAR artifacts (default case) or individual artifacts in a CSAR
